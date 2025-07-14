@@ -9,6 +9,6 @@ A good portion of the thesis reviews and summarizes machine learning in general,
 The particular architecture i chose to analyze and run locally was the HD-GCN from this repository (https://github.com/Jho-Yonsei/HD-GCN), of which i thank the authors who shared their code.
 To work with this model i mainly used the NTU RGB+D 60/120 dataset, for which i thank the ROSE lab in Singapore (https://rose1.ntu.edu.sg) who made it available to me.
 
-Working with the model and the dataset i split it a little differently then how it was usually used, making sure to have a very big training, a validation and a completely unseen test. Beyond that i also changes some hyperparameters to better work with my machine and for experimentations.
+Working with the model and the dataset i split it a little differently then how it was usually used, making sure to have a very big training, a validation and a completely unseen test. Beyond that i also changed some hyperparameters to better work with my machine and for experimentations.
 
 All the details are inside the report.
